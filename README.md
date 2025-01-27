@@ -47,5 +47,3 @@ By exploring this repository, you’ll cover:
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23FF5733&size=25&center=true&vCenter=true&width=600&lines=Start+Exploring+Python!;Contribute+and+Collaborate!" width="auto" height="40"/>
 </p>
-
-Feel free to fork, clone, or contribute to this repository. Let’s grow together in the Python community! 😎👨‍💻
