@@ -1,4 +1,8 @@
 # 🚀 Python Learning Journey
+<h3 style="font-size:50rem;" align="center" >My Certificate</h3>
+
+
+<img src="py.certificate">
 
 Welcome to my Python programming journey! This repository contains code, notes, and practice sets for each major concept covered during my learning process. Feel free to explore, use, and contribute! 🎉
 
